@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ## Live links (replace with your own)
 - Leaflet Map https://billymcconvell.github.io/kintermposs/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1Oqk1cOQXpETfb6nTGkYsHbLUWM-oAcgHVNWu2csnDuo/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1TFuHu_v2KIVyfXkkpECDSyBVDWbIIbTO9xmpUa6hLT4/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
